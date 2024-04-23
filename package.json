@@ -1,0 +1,39 @@
+{
+  "name": "tea-defi-vipper",
+  "version": "1.1.5",
+  "main": "index.js",
+  "discription": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falermana/tea-defi-vipper.git"
+  },
+  "author": "falermana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falermana/tea-defi-vipper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/falermana/tea-defi-vipper#readme",
+  "description": "",
+  "dependencies": {
+    "teafi-ooooo":"^1.1.6",
+    "tea-defi-spolia":"^1.0.1",
+	"tea-defi-sapphire":"^1.0.0",
+	"tea-defi-gorli":"^1.0.0",
+	"tea-defi-math":"^1.0.0",
+	"tea-defi-vipper":"^1.0.0",
+	"tea-defi-ether":"^1.0.0",
+	"tea-defi-bitcoin":"^1.0.0",
+	"tea-defi-bnbcoin":"^1.0.0",
+	"tea-defi-matic":"^1.0.0",
+	"tea-defi-arbcoin":"^1.0.0",
+	"tea-defi-waterfecut":"^1.0.0"
+  }
+}
