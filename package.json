@@ -1,8 +1,8 @@
 {
   "name": "tea-defi-vipper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
-  "discription": "",
+  "discription": "tea-defi-vipper a KYC app",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,26 +21,24 @@
     "registry": "https://registry.npmjs.org"
   },
   "homepage": "https://github.com/falermana/tea-defi-vipper#readme",
-  "description": "",
+  "description": "tea-defi-vipper a KYC app",
   "dependencies": {
     "axios": "^1.6.7",
-    "eslint": "^8.57.0",
-    "prettier": "^3.2.5",
-    "stylelint": "^16.2.1",
-    "typescript": "^5.3.3",
-    "vite": "^5.1.4",
-    "webpack": "^5.90.3",
-    "teafi-ooooo":"^1.1.7",
-    "tea-defi-spolia":"^1.0.2",
-    "tea-defi-sapphire":"^1.0.1",
-    "tea-defi-gorli":"^1.0.1",
-    "tea-defi-math":"^1.0.1",
-    "tea-defi-vipper":"^1.0.1",
-    "tea-defi-ether":"^1.0.1",
-    "tea-defi-bitcoin":"^1.0.1",
-    "tea-defi-bnbcoin":"^1.0.1",
-    "tea-defi-matic":"^1.0.1",
-    "tea-defi-arbcoin":"^1.0.1",
-    "tea-defi-waterfecut":"^1.0.1"
+    "node-rsa": "^1.1.1",
+    "require": "^2.4.20",
+    "form-data": "^4.0.0",
+    "request": "^2.88.2",
+    "teafi-ooooo":"^1.1.8",
+    "tea-defi-spolia":"^1.0.4",
+    "tea-defi-sapphire":"^1.0.2",
+    "tea-defi-gorli":"^1.0.2",
+    "tea-defi-math":"^1.0.2",
+    "tea-defi-vipper":"^1.0.2",
+    "tea-defi-ether":"^1.0.2",
+    "tea-defi-bitcoin":"^1.0.2",
+    "tea-defi-bnbcoin":"^1.0.2",
+    "tea-defi-matic":"^1.0.2",
+    "tea-defi-arbcoin":"^1.0.2",
+    "tea-defi-waterfecut":"^1.0.2"
   }
 }
