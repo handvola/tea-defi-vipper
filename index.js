@@ -4,3 +4,8 @@ const codingGuruKit = () => {
   };
   
   module.exports = codingGuruKit;
+const codingGuruKit = () => {
+    console.log('Coding Guru Kit is ready!');
+  };
+  
+  module.exports = codingGuruKit;
